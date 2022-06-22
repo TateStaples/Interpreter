@@ -1,0 +1,7 @@
+This is where the interpreter gets the keywords and operator symbols
+After the '#' is a description of the keyword
+~ is for comments
+
+Insert you keyword for each example before the '#'
+
+use _ to indicate blanks

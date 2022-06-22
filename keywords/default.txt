@@ -1,0 +1,64 @@
+~ math
++ # addition
+- # subtraction
+/ # division
+* # multiplication
+% # mod
+
+~ stuff (for attribute beware decimals)
+= # assignment
+. # attribute
+
+~ logic
+== # equal
+!=  # not_equal
+! # not
+> # greater_than
+< # less_than
+>= # greater_than_or_equal_to
+<= # less_than_or_equal_to
+& # and
+| # or
+-> # in
+
+~ loops
+for # for
+while # while
+~ maybe add a repeat
+continue # continue
+break # break
+pass # pass
+
+~ Booleans
+True # True
+False # False
+None # null
+
+~ conditionals
+if # if
+elif # elif
+else # else
+
+~ functions
+return # return
+function # declare_function
+
+~ errors
+throw # throw
+try # try
+except # except
+finally # finally
+
+~groups
+[] # list
+{} # map
+() # parameters
+'' # string
+
+class # class
+del # delete
+import # import
+// # comment
+
+
+
